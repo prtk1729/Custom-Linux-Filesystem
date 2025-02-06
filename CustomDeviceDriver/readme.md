@@ -9,3 +9,6 @@
     - This is the `app` on top of the `kernel` (<kbd>as shown</kbd>) that, interacts with the newly built `device driver` i.e `makes a request` and gets the `response`
   - `makefile`
     - Builds and compiles the `device driver` file.
+
+### Final Expected Result
+![Final Expected Result](./images/final_expected_result.png)
